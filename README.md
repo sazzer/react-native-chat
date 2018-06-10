@@ -3,6 +3,10 @@ How to build a real time chat app in React Native
 
 This project shows a full React Native chat app ready to be deployed onto Android or iOS, complete with the server component.
 
+[View tutorial](https://github.com/sazzer/react-native-chat)
+
+## Getting Started
+
 In order to use this you need to register with http://pusher.com and to add a `pusher.json` file to both the `server` and `client` directories. This file should look like:
 
 ```json
@@ -27,3 +31,11 @@ Running the client
 ------------------
 The client can be built by executing "npm install" inside the `client` directory.
 The client can then be run by executing "npm start" inside the same directory and following the on-screen prompts to access it from your mobile device.
+
+## Built With
+
+...
+
+## Acknowledgements
+
+...
