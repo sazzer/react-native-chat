@@ -34,8 +34,8 @@ The client can then be run by executing "npm start" inside the same directory an
 
 ## Built With
 
-...
+* [Pusher](http://pusher.com) - APIs to enable devs building realtime features
+* [Create React Native App](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
+* [Node.js](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [Express.js](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 
-## Acknowledgements
-
-...
